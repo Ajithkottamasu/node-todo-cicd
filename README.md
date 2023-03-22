@@ -1,6 +1,6 @@
 # node-todo-cicd
 
-Run these commands:
+Run these commands for version2:
 
 
 `sudo apt install nodejs`
